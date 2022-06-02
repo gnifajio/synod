@@ -16,6 +16,12 @@ cd synod
 python3 setup.py install
 ```
 
+Or
+
+```sh
+pip install synod
+```
+
 ## Usage
 
 ```python
