@@ -3,4 +3,4 @@ __pycache__/
 *.bak
 build/
 dist/
-gQiwiAPI.egg-info/
+synod.egg-info/
