@@ -5,7 +5,7 @@ with open('README_EN.md', 'r') as fh:
 
 setuptools.setup(
 	name = "synod",
-	version = "1.0",
+	version = "1.1",
 	author = "Gnifajio None",
 	author_email = "gnifajio@gmail.com",
 	description = "Python dictionary with synonyms",

@@ -1,4 +1,4 @@
-# **synod** by _Gnifajio_ ![](https://badgen.net/badge/release/v1.0/grey) ![](https://komarev.com/ghpvc/?username=gnifajio-synod&label=views)
+# **synod** by _Gnifajio_ ![](https://badgen.net/badge/release/v1.1/grey) ![](https://komarev.com/ghpvc/?username=gnifajio-synod&label=views)
 
 _Python словарь с синонимами_
 
@@ -68,10 +68,12 @@ synoded # {}
 - `__setitem__`
 - `copy`
 - `fromkeys`
-- `items`
 - `keys`
 - `pop`
 - `popitem`
 - `setdefault`
 - `update`
 - `values`
+
+# Новое в версии 1.1:
+- Метод `items`.

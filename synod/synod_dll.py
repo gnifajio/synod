@@ -80,6 +80,9 @@ class synod:
     def clear(self):
         self.__dict = {}
     
+    def items(self):
+        return self.__dict.items()
+    
     def __delitem__(self, key):
         try:
             del self.__dict[key]
