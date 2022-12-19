@@ -1,1 +1,1 @@
-from .synod_dll import HList, synod
+from .synod_dll import HList, Synod
